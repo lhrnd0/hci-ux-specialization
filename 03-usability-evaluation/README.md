@@ -1,4 +1,4 @@
-# 03 · Usability Evaluation
+# 03 Usability Evaluation
 
 ## Vakinha: campaign discovery and donation
 
@@ -12,9 +12,7 @@
 [View the PUC-Rio certificate](certificate-pt-BR.pdf) · [Verify with PUC-Rio](https://pucrio.grupoa.education/academic-services/documents/validate/c4223395)
 
 **Course period:** 21 July – 5 October 2026
-
 **Workload:** 120 hours
-
 **Issued:** 27 October 2026
 
 ## Evaluation goals
