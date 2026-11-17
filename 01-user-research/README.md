@@ -8,6 +8,16 @@
 
 [Read the Portuguese report](report-pt-BR-public.pdf) · [Next: interaction design](../02-interaction-design/README.md) · [Portfolio home](../README.md)
 
+## Certificate
+
+[View the PUC-Rio certificate](certificate-pt-BR.pdf) · [Verify with PUC-Rio](https://pucrio.grupoa.education/academic-services/documents/validate/7429dc1d)
+
+**Course period:** 3 February – 20 April 2026
+
+**Workload:** 120 hours
+
+**Issued:** 23 May 2026
+
 ## The problem
 
 People coordinate animal rescue through social networks and messaging groups. Requests can lose their original source, location, or current status. Rescuers must decide whether information is reliable while facing time pressure and limited resources.

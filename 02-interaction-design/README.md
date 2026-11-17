@@ -8,6 +8,16 @@
 
 [Read the Portuguese report](report-pt-BR.pdf) · [View the MoLIC model](molic-interaction-model.pdf) · [Download the Figma file](high-fidelity-prototype.fig) · [Portfolio home](../README.md)
 
+## Certificate
+
+[View the PUC-Rio certificate](certificate-pt-BR.pdf) · [Verify with PUC-Rio](https://pucrio.grupoa.education/academic-services/documents/validate/1e0fd75)
+
+**Course period:** 28 April – 13 July 2026
+
+**Workload:** 120 hours
+
+**Issued:** 19 October 2026
+
 ## The problem
 
 Animal rescuers need to coordinate care before finding a suitable adopter. The design explores how an application can support both occasional and experienced rescuers.

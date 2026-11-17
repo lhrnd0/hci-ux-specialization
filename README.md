@@ -10,9 +10,9 @@ The projects cover user research, interaction design, interface prototyping, and
 
 | Module | Project | Methods and deliverables | Read the work |
 | --- | --- | --- | --- |
-| 01 · User Research | Animal rescue and community support | Semi-structured interviews, pilot, evidence synthesis, personas, problem scenarios | [Case summary](01-user-research/README.md) · [Portuguese report](01-user-research/report-pt-BR-public.pdf) |
-| 02 · Interaction and Interface Design | Resgate Pet | MoLIC interaction model, mobile interface, high-fidelity Figma prototype | [Case summary](02-interaction-design/README.md) · [Portuguese report](02-interaction-design/report-pt-BR.pdf) |
-| 03 · Usability Evaluation | Vakinha | Nielsen heuristic evaluation, severity ratings, moderated usability tests, recommendations | [Case summary](03-usability-evaluation/README.md) · [Portuguese report](03-usability-evaluation/report-pt-BR-public.pdf) |
+| 01 · User Research | Animal rescue and community support | Semi-structured interviews, pilot, evidence synthesis, personas, problem scenarios | [Case summary](01-user-research/README.md) · [Portuguese report](01-user-research/report-pt-BR-public.pdf) · [Certificate](01-user-research/certificate-pt-BR.pdf) |
+| 02 · Interaction and Interface Design | Resgate Pet | MoLIC interaction model, mobile interface, high-fidelity Figma prototype | [Case summary](02-interaction-design/README.md) · [Portuguese report](02-interaction-design/report-pt-BR.pdf) · [Certificate](02-interaction-design/certificate-pt-BR.pdf) |
+| 03 · Usability Evaluation | Vakinha | Nielsen heuristic evaluation, severity ratings, moderated usability tests, recommendations | [Case summary](03-usability-evaluation/README.md) · [Portuguese report](03-usability-evaluation/report-pt-BR-public.pdf) · [Certificate](03-usability-evaluation/certificate-pt-BR.pdf) |
 
 ## From research to interaction design
 

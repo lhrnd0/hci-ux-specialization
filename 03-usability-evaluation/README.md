@@ -7,6 +7,16 @@
 
 [Read the Portuguese report](report-pt-BR-public.pdf) · [Portfolio home](../README.md)
 
+## Certificate
+
+[View the PUC-Rio certificate](certificate-pt-BR.pdf) · [Verify with PUC-Rio](https://pucrio.grupoa.education/academic-services/documents/validate/c4223395)
+
+**Course period:** 21 July – 5 October 2026
+
+**Workload:** 120 hours
+
+**Issued:** 27 October 2026
+
 ## Evaluation goals
 
 The project evaluated two tasks on Vakinha:
