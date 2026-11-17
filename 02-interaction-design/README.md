@@ -1,4 +1,4 @@
-# 02 · Interaction and Interface Design
+# 02 Interaction and Interface Design
 
 ## Resgate Pet
 
@@ -12,7 +12,7 @@
 
 Animal rescuers need to coordinate care before finding a suitable adopter. The design explores how an application can support both occasional and experienced rescuers.
 
-It builds on the [user research from Module 01](../01-user-research/README.md). The personas and scenarios were adapted for this design exercise.
+It builds on the [user research from Module 01](../01-user-research/README.md), it focuses on two goals surfaced on user interviews. The personas and scenarios were adapted for this design exercise.
 
 ## Design goals
 
@@ -23,11 +23,13 @@ The interaction model covers two goals:
 
 ## Approach
 
-**MoLIC** means *Modeling Language for Interaction as Conversation*. The model describes conversations between the user and the system.
+**MoLIC** means *Modeling Language for Interaction as Conversation*. The model describes conversations between the user and the system (_designer_). 
 
 The diagram maps the two goals, alternative paths, supporting conversations, processing states, and recovery from interaction problems.
 
 The mobile prototype focuses on reviewing adoption applications. It shows the path from a rescue record to applicant validation and contact.
+
+Initial diagram conception helped shape the prototype interactions, while later the diagram changed by the interface's influence.
 
 ## Design decisions
 
@@ -35,8 +37,9 @@ The mobile prototype focuses on reviewing adoption applications. It shows the pa
 | --- | --- |
 | Care guidance and a care checklist | Help less experienced rescuers understand the next steps. |
 | Favorites and recent access | Support repeated work by experienced users. |
-| Visible validation progress and results | Explain system processing and its outcome. |
-| Applicant information and contact actions | Support the rescuer's decision and follow-up. |
+| Visible animal health checks | Explain health requirements. |
+| Applicant screening through system heuristics | Aid the rescuer's decision by providing through analysis. |
+| Applicant information and contact actions | Up-to-date information for rescuer's follow-up. |
 
 The application validation and scoring screens illustrate a proposed interaction. The coursework does not establish the accuracy of an automated screening system.
 
