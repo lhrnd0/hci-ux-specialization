@@ -3,7 +3,7 @@
 ## Vakinha: campaign discovery and donation
 
 **Module:** Avaliação da Qualidade de Uso de Sistemas  
-**My work:** Heuristic inspection, test planning, pilot, moderated observation, analysis, and prioritized recommendations.
+**Work:** Heuristic inspection, test planning, pilot, usability test with observation, analysis, and prioritized recommendations.
 
 [Read the Portuguese report](report-pt-BR-public.pdf) · [Portfolio home](../README.md)
 
@@ -24,7 +24,7 @@ I inspected the task paths using Nielsen's ten usability heuristics. Each record
 
 The inspection recorded **21 violation occurrences**: **5 major**, **15 minor**, and **1 cosmetic**. These are occurrences across screens and paths, rather than 21 unique product defects. Repeated issues were grouped for prioritization.
 
-### Moderated usability tests
+### Usability tests with observation
 
 The study included a pilot followed by two main sessions. Participants completed pre-test and post-test questionnaires and described their thoughts during the tasks.
 
@@ -46,9 +46,9 @@ The observed sessions reinforced the inspection findings about recency, filterin
 
 Among the two main participants, average clarity of campaign publication dates was **1.5/5**. Confidence in selecting the most recent campaign averaged **2.0/5**.
 
-Both participants encountered the R$ 25 minimum when attempting the R$ 20 task. The report discusses the resulting uncertainty and workarounds.
+Both participants encountered the R$ 25 minimum when attempting the R$ 20 task, which results in uncertainty and workarounds.
 
-These ratings describe two sessions. They are descriptive findings, not population estimates. The recommendations were not implemented or measured through a follow-up test.
+These ratings describe two sessions. They are descriptive findings, not population estimates.
 
 ## Public report edition
 
