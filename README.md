@@ -1,6 +1,6 @@
 # HCI + UX Specialization
 
-Portfolio of three MVP projects completed during my postgraduate specialization in **Human–Computer Interaction and User Experience (UX)** at **PUC-Rio**.
+Portfolio of three MVP projects completed during my postgraduate specialization in [**Human–Computer Interaction and User Experience (UX)**](https://especializacao.ccec.puc-rio.br/especializacao/interacao-humano-computador-e-experiencia-do-usuario-ux) at [**PUC-Rio**](https://especializacao.ccec.puc-rio.br/).
 
 **Lucas H. Rinaldi · 3 February – 5 October 2026 · Online · 360 hours**
 
@@ -10,25 +10,19 @@ The projects cover user research, interaction design, interface prototyping, and
 
 | Module | Project | Methods and deliverables | Read the work |
 | --- | --- | --- | --- |
-| 01 · User Research | Animal rescue and community support | Semi-structured interviews, pilot, evidence synthesis, personas, problem scenarios | [Case summary](01-user-research/README.md) · [Portuguese report](01-user-research/report-pt-BR-public.pdf) · [Certificate](01-user-research/certificate-pt-BR.pdf) |
-| 02 · Interaction and Interface Design | Resgate Pet | MoLIC interaction model, mobile interface, high-fidelity Figma prototype | [Case summary](02-interaction-design/README.md) · [Portuguese report](02-interaction-design/report-pt-BR.pdf) · [Certificate](02-interaction-design/certificate-pt-BR.pdf) |
-| 03 · Usability Evaluation | Vakinha | Nielsen heuristic evaluation, severity ratings, moderated usability tests, recommendations | [Case summary](03-usability-evaluation/README.md) · [Portuguese report](03-usability-evaluation/report-pt-BR-public.pdf) · [Certificate](03-usability-evaluation/certificate-pt-BR.pdf) |
+| 01 User Research | Animal rescue and community support | Semi-structured interviews, pilot, evidence synthesis, personas, problem scenarios | [Module summary](01-user-research/README.md) · [Portuguese report](01-user-research/report-pt-BR-public.pdf) · [Certificate](01-user-research/certificate-pt-BR.pdf) |
+| 02 Interaction and Interface Design | Resgate Pet | MoLIC interaction model, mobile interface, high-fidelity Figma prototype | [Module summary](02-interaction-design/README.md) · [Portuguese report](02-interaction-design/report-pt-BR.pdf) · [Certificate](02-interaction-design/certificate-pt-BR.pdf) |
+| 03 Usability Evaluation | Vakinha | Nielsen heuristic evaluation, severity ratings, moderated usability tests, recommendations | [Module summary](03-usability-evaluation/README.md) · [Portuguese report](03-usability-evaluation/report-pt-BR-public.pdf) · [Certificate](03-usability-evaluation/certificate-pt-BR.pdf) |
 
 ## From research to interaction design
 
-The first project investigated how animal rescuers coordinate help and manage uncertain information. Its findings informed **Resgate Pet**, the interaction design project in Module 02.
-
-The third project evaluated **Vakinha**, an existing crowdfunding service. It is a separate evaluation case. It does not validate the Resgate Pet prototype.
-
-[![Resgate Pet mobile prototype: home and rescue detail screens](assets/prototype-preview.png)](02-interaction-design/README.md)
-
-*Screens from the submitted Resgate Pet report. Open the case summary for the interaction model and Figma prototype.*
+<!-- TODO -->
 
 ## What this work demonstrates
 
 - Planning and conducting exploratory user research.
-- Connecting interview evidence to personas and problem scenarios.
-- Modeling interaction as a conversation with MoLIC.
+- Analyzing and connecting interview evidence to personas and problem scenarios.
+- Modeling interaction as a conversation (user <> designer) with MoLIC.
 - Designing mobile flows, system feedback, and application states.
 - Comparing inspection findings with observed usability problems.
 - Turning usability findings into prioritized recommendations.
