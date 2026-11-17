@@ -1,8 +1,10 @@
 # HCI + UX Specialization
 
-Portfolio of three MVP projects completed during my postgraduate specialization in [**Human–Computer Interaction and User Experience (UX)**](https://especializacao.ccec.puc-rio.br/especializacao/interacao-humano-computador-e-experiencia-do-usuario-ux) at [**PUC-Rio**](https://especializacao.ccec.puc-rio.br/).
+Portfolio of three projects completed during my postgraduate specialization in [**Human–Computer Interaction and User Experience (UX)**](https://especializacao.ccec.puc-rio.br/especializacao/interacao-humano-computador-e-experiencia-do-usuario-ux) at [**PUC-Rio**](https://especializacao.ccec.puc-rio.br/).
 
-**Lucas H. Rinaldi · 3 February – 5 October 2026 · Online · 360 hours**
+Each project applies the concepts taught in its module, progressing from user research to interaction design and usability evaluation, building upon each other.
+
+**Lucas H. Rinaldi · 3 February ~ 5 October 2026 · Online · 360 hours**
 
 The projects cover user research, interaction design, interface prototyping, and usability evaluation. English summaries introduce the work. The submitted reports and design artifacts are in Brazilian Portuguese.
 
