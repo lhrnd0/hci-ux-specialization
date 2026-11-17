@@ -2,9 +2,9 @@
 
 ## Resgate Pet
 
-**Module:** Projeto da Interação Humano Computador e da Interface do Usuário  
+**Module:** Projeto da Interação Humano-Computador e da Interface do Usuário  
 **Submitted:** 5 July 2026  
-**My work:** Persona and scenario adaptation, interaction modeling, mobile interface design, and prototype documentation.
+**Work:** Persona and scenario adaptation, interaction modeling, mobile interface design, and prototype documentation.
 
 [Read the Portuguese report](report-pt-BR.pdf) · [View the MoLIC model](molic-interaction-model.pdf) · [Download the Figma file](high-fidelity-prototype.fig) · [Portfolio home](../README.md)
 
@@ -42,16 +42,13 @@ The application validation and scoring screens illustrate a proposed interaction
 
 ## Artifacts
 
-- [Submitted report](report-pt-BR.pdf): goals, personas, scenarios, interaction model, screen flows, and component descriptions.
+- [Report](report-pt-BR.pdf): goals, personas, scenarios, interaction model, screen flows, and component descriptions.
 - [MoLIC interaction model](molic-interaction-model.pdf): full diagram as a separate PDF.
 - [High-fidelity prototype](high-fidelity-prototype.fig): editable Figma file.
-- [Figma design and prototype](https://www.figma.com/design/ICBrdDhraMPF59R3xWuiTm/PUCRio---Sprint--Projeto-IHC-e-UI---0726-MVP---Sistema-de-Ger%C3%AAncia-de-Resgates-de-Animais?node-id=5498-5066): original design link from the report; access depends on Figma sharing settings.
+- [Figma design and prototype](https://www.figma.com/design/ICBrdDhraMPF59R3xWuiTm/PUCRio---Sprint--Projeto-IHC-e-UI---0726-MVP---Sistema-de-Ger%C3%AAncia-de-Resgates-de-Animais?node-id=5498-5066): original design link from the report.
 - [Figma interaction model](https://www.figma.com/design/ICBrdDhraMPF59R3xWuiTm/PUCRio---Sprint--Projeto-IHC-e-UI---0726-MVP---Sistema-de-Ger%C3%AAncia-de-Resgates-de-Animais?node-id=5515-5377): original model link from the report.
-
-![Resgate Pet home and rescue detail screens](../assets/prototype-preview.png)
 
 ## Scope
 
 This module delivers an interaction model and a prototype. It does not include evidence of a usability test of Resgate Pet.
-
 The [Module 03 evaluation](../03-usability-evaluation/README.md) examines Vakinha, a separate existing service.
