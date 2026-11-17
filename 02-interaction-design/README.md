@@ -41,9 +41,9 @@ Initial diagram conception helped shape the prototype interactions, while later 
 | Applicant screening through system heuristics | Aid the rescuer's decision by providing through analysis. |
 | Applicant information and contact actions | Up-to-date information for rescuer's follow-up. |
 
-The application validation and scoring screens illustrate a proposed interaction. The coursework does not establish the accuracy of an automated screening system.
-
 ## Artifacts
+
+Navigate the MoLIC diagram together with the prototype in the Figma file for a better experience and depiction of each user journey through the interface.
 
 - [Report](report-pt-BR.pdf): goals, personas, scenarios, interaction model, screen flows, and component descriptions.
 - [MoLIC interaction model](molic-interaction-model.pdf): full diagram as a separate PDF.
