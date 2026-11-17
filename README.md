@@ -24,7 +24,7 @@ The projects cover user research, interaction design, interface prototyping, and
 
 - Planning and conducting exploratory user research.
 - Analyzing and connecting interview evidence to personas and problem scenarios.
-- Modeling interaction as a conversation (user <> designer) with MoLIC.
+- Modeling interaction as a conversation (between user and _designer_) with MoLIC.
 - Designing mobile flows, system feedback, and application states.
 - Comparing inspection findings with observed usability problems.
 - Turning usability findings into prioritized recommendations.
